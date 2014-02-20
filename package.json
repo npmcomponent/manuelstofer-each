@@ -1,0 +1,7 @@
+{
+  "name": "manuelstofer-each",
+  "description": "Underscore's each function packed as a component",
+  "version": "1.3.3",
+  "keywords": [],
+  "dependencies": {}
+}
